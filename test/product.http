@@ -24,5 +24,4 @@ DELETE http://localhost:8080/products/f3889d75-bbb4-47c9-b6d2-6d6cee07f1f2 HTTP/
 
 ###
 GET http://localhost:8080/products HTTP/1.1
-
-
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODYyNTg4NzcsInN1YiI6IjlkM2NhMzgyLWFlMDYtNDRiMi1hZjVlLTI0YzQxZTZhMzI1ZSJ9.nccfMU-DnEB1Nj7CakDKJ6sQc1fMHTQ8kRCcpThu81o

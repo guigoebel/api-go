@@ -1,0 +1,18 @@
+basePath: /
+host: localhost:8000
+info:
+  contact:
+    email: guigoebel
+    name: Guilherme Goebel
+    url: https://www.linkedin.com/in/guilherme-goebel/
+  description: Product API with auhtentication
+  termsOfService: http://swagger.io/terms/
+  title: Go Expert API Example
+  version: "1.0"
+paths: {}
+securityDefinitions:
+  ApiKeyAuth:
+    in: header
+    name: Authorization
+    type: apiKey
+swagger: "2.0"
